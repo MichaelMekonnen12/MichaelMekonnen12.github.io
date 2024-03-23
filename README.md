@@ -1,7 +1,7 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+# Michael Mekonnen ⚡️ 
+> I am a Python developer, and I have a passion for coding. I graduated with a degree in Information Systems.
 
-> https://varadbhogayata.github.io
+> https://MichaelMekonnen12.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
